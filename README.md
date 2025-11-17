@@ -1,1 +1,1 @@
-# c_practice
+# tasks and algorithms from "The C programming language by Kernighan Ritchie"
